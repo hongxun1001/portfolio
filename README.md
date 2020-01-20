@@ -1,6 +1,17 @@
 # portfolio
+This is my public portfolio for the Telling stories with Data class at CMU!
 
-link to the live site https://hongxun1001.github.io/portfolio/
+# About Me
+Hello! I'm a student in the Telling Stories with Data course.
 
+Fascinated by the interaction between art and technology, I’m currently learning Interaction Design at Carnegie Mellon University.
 
-Whatever I type will appear on the public web.
+Previously worked as an architecture designer for Aedas.
+
+Trying to be a Human-Centered Designer who knows how to combine leaps of the imagination with remarkable feats of engineering.
+
+# What I hope to learn
+I hope to learn how to better express data, and also basic code knowledge related to it.
+
+# Portfolio
+Here's where all of my cool data visualizations will go!

@@ -17,3 +17,5 @@ I hope to learn how to better express data, and also basic code knowledge relate
 Here's where all of my cool data visualizations will go.
 
 [General government debtTotal, % of GDP, 1995 – 2018 of the US, the UK & Germany](/dataviz2.md)
+
+[General government debtTotal, % of GDP, 1995 – 2018 of 35 countries](/dataviz3.md)

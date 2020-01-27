@@ -14,4 +14,6 @@ Trying to be a Human-Centered Designer who knows how to combine leaps of the ima
 I hope to learn how to better express data, and also basic code knowledge related to it.
 
 # Portfolio
-Here's where all of my cool data visualizations will go!
+Here's where all of my cool data visualizations will go.
+
+[General government debtTotal, % of GDP, 1995 – 2018 of the US, the UK & Germany](/dataviz2.md)

@@ -9,7 +9,7 @@ The data I chose is “The US Small + Midsize Luxury Cars Sales in December 2018
 
 https://electricvehiclebatteries.pro/2019/08/12/30-shocking-tesla-sales-charts/
 
-![Screenshot](https://github.com/hongxun1001/portfolio/blob/master/original%202.png)
+![Screenshot](original 1.png)
 
 ### 1.2 Critique the Visualization
 

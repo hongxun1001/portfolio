@@ -41,12 +41,12 @@ I will find a better way to categorize the competitive brand by different colors
 
 ### 2.1 Wireframe a Solution
 
-![Screenshot](https://github.com/hongxun1001/portfolio/blob/master/wireframe.jpg)
+![Screenshot](wireframe.jpg)
 First of all, categorize the competitive brand by different colors for audience to have a more valuable analysis other than only knowing about the relative position of Tesla Model 3 which ranks No.1. Then another bar chart is generated to show the overall sales performance by brands, such as accumulate Mercedes C-Class, E/CLS-Class, and CLA-Class as one “Mercedes” category.
 
 ### 2.2 The Redesigned Visualization
 
-![Screenshot](https://github.com/hongxun1001/portfolio/blob/master/refined%201.jpg)
+![Screenshot](refined 1.jpg)
 
 ## 3. Testing and Feedbacks
 
@@ -60,7 +60,7 @@ The things that they think can be improved is that column of the left chart can 
 
 I enlarged the left bar graph according to the feedback and I decided to add brand logos on the left bar graph with a low-fidelity logo, because high-fidelity logo can distract the overall visualization by adding too much details in the graph.And also add subtitle for the separate two bar graphs.
 
-![Screenshot](https://github.com/hongxun1001/portfolio/blob/master/refined%203.jpg)
+![Screenshot](refined 3.jpg)
 
 Data source:https://electricvehiclebatteries.pro/2019/08/12/30-shocking-tesla-sales-charts/
 

@@ -52,15 +52,15 @@ First of all, categorize the competitive brand by different colors for audience 
 
 I found one of my neighbors and one of my classmates to test my redesigned visualization. 
 
-They can easily tell what the visualization is talking about. And it is easy to understand the sales performance by different car brands. One of them thinks the intended audience is for business analysis company and another one considers it is for the person who is planning to buy a new car.
+It is easy to understand the sales performance by different car brands. But they can not intuitively tell what the visualization is talking about, so the subtitle for the two bar graph would be helpful. And iOne of them thinks the intended audience is for business analysis company and another one considers it is for the person who is planning to buy a new car.
 
 The things that they think can be improved is that column of the left chart can be enlarged to make some difference with the left column to differentiate from the right one which contains more detailed items. And also, one of them suggested that brand logo is helpful for the visualization to be more intuitive.
 
 ## 4.Final Design
 
-I enlarged the left bar graph according to the feedback and I decided to add brand logos on the left bar graph with a low-fidelity logo, because high-fidelity logo can distract the overall visualization by adding too much details in the graph.
+I enlarged the left bar graph according to the feedback and I decided to add brand logos on the left bar graph with a low-fidelity logo, because high-fidelity logo can distract the overall visualization by adding too much details in the graph.And also add subtitle for the separate two bar graphs.
 
-![image](https://github.com/hongxun1001/portfolio/blob/master/refined%202.jpg)
+![image](https://github.com/hongxun1001/portfolio/blob/master/refined%203.jpg)
 
 Data source:https://electricvehiclebatteries.pro/2019/08/12/30-shocking-tesla-sales-charts/
 

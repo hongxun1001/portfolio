@@ -4,7 +4,7 @@ This is my public portfolio for the Telling stories with Data class at CMU!
 # Assignments
 [Assignment 2](/dataviz2.md)
 
-[Assignment 3&4](/Assignment34.md)
+[Assignment 3&4](/Assignment 34.md)
 
 # About Me
 Hello! I'm a student in the Telling Stories with Data course.

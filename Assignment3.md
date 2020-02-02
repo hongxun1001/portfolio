@@ -11,6 +11,8 @@ https://electricvehiclebatteries.pro/2019/08/12/30-shocking-tesla-sales-charts/
 
 ![Screenshot](original 1.png)
 
+![Screenshot](original 2.png)
+
 ### 1.2 Critique the Visualization
 
 This chart mainly emphasize the exceedingly high sales performance of Tesla Model 3 and the audience can easily and intuitively catch the idea of the chart maker. However, audience can not go deeply into the data of the chart to analyze the competitors performance in a more intuitive way, such as Mercedes and BMW have several models selected into the chart but the audience can't easily detect how they are performing as a whole. 

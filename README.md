@@ -4,7 +4,7 @@ This is my public portfolio for the Telling stories with Data class at CMU!
 # Assignments
 [Assignment 2](/dataviz2.md)
 
-[General government debtTotal, % of GDP, 1995 – 2018 of 35 countries](/dataviz3.md)
+[Assignment 3&4](/Assignment3.md)
 
 # About Me
 Hello! I'm a student in the Telling Stories with Data course.

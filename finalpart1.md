@@ -2,16 +2,16 @@
 
 ## Part 1
 
-***Outline***
+## Outline
 
-**Summary** 
+### Summary
 
 At its peak value of $174.7 billion on Tuesday, 4th February, Tesla was the 30th-largest stock in the U.S. and by far the largest never to have made a full-year profit. 
 
 For the final project I want to advocate people to buy electric car to stop destroying our environment.
 
 
-**Story Arc**
+### Story Arc
 
 ![Screenshot](part one 1.jpg)
 
@@ -40,12 +40,12 @@ I’m going to highlight how Tesla changed the game in the automobile market and
 According to all the stories with data provided above, the potential car buyers will make a better decision to make contribution to our earth.
 
 
-**Initial Sketches**
+### Initial Sketches
 
 ![Screenshot](part one 2.jpg)
 
 
-**Data**
+### Data
 
 The Tesla stock price data is from the "Yahoo Finance”, which is the primary source of stock prices and the performance of the public company. The average temperature data and atmospheric CO2 concentration data are from “our world in data” which is set to present research and data to make progress against the world’s largest problems. The statistics of about the Tesla are gathered in a financial data platform - Hyperchart.
 
@@ -61,7 +61,7 @@ https://finance.yahoo.com/chart/TSLA
 
 
 
-**Method & Medium**
+### Method & Medium
 
 For my final project, I plan on building my story using Shorthand, which is the premier platform for creating immersive digital stories for the web. I will first get familiar with the platform and explore some of the templates.
 

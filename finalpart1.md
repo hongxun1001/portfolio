@@ -15,27 +15,24 @@ For the final project I want to advocate people to buy electric car to stop dest
 
 ![Screenshot](partone1.jpg)
 
-*1.Intro to the Tesla stock performance*
+1.Intro to the Tesla stock performance
 
 Starting with recently hot Tesla stock performance to attract the audience.
 
-
-*2.Temperature increase*
+2.Temperature increase
 
 Global average temperature has increased by more than one degree celsius since pre-industrial times. We see that over the last few decades, global temperatures have risen sharply — to approximately 0.7℃ higher than our 1961-1990 baseline. When extended back to 1850, we see that temperatures then were a further 0.4℃ colder than they were in our baseline. Overall, this would amount to an average temperature rise of 1.1℃.
 
-
-*3. CO2 in the atmosphere*
+3. CO2 in the atmosphere
 
 CO2 concentrations in the atmosphere are at their highest levels in over 800,000 years.
 This rise in global average temperature is attributed to an increase in greenhouse gas emissions.This link between global temperatures and greenhouse gas concentrations – especially CO2 – has been true throughout Earth’s history. In the chart here we see global average concentrations of CO2 in the atmosphere over the past 800,000 years.
 
-
-*4. How Tesla is changing the game*
+4. How Tesla is changing the game
 
 I’m going to highlight how Tesla changed the game in the automobile market and how it went through all the challenges with the support of its historical data and several major events occurred in its cruise to the throne of electric car market. And I will try to explain what it means to the automobile market and the life of every single person on our earth.
 
-*5. Call to action*
+5. Call to action
 
 According to all the stories with data provided above, the potential car buyers will make a better decision to make contribution to our earth.
 

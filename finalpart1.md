@@ -13,7 +13,7 @@ For the final project I want to advocate people to buy electric car to stop dest
 
 ### Story Arc
 
-![Screenshot](part one 1.jpg)
+![Screenshot](partone1.jpg)
 
 *1.Intro to the Tesla stock performance*
 
@@ -42,7 +42,7 @@ According to all the stories with data provided above, the potential car buyers 
 
 ### Initial Sketches
 
-![Screenshot](part one 2.jpg)
+![Screenshot](partone2.jpg)
 
 
 ### Data

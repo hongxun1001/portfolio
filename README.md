@@ -8,6 +8,7 @@ This is my public portfolio for the Telling stories with Data class at CMU!
 
 [Final project (part 1)](/finalpart1.md)
 
+[Final project (part 2)](/finalpart2.md)
 
 # About Me
 Hello! I'm a student in the Telling Stories with Data course.

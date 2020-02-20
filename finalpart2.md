@@ -62,3 +62,12 @@ The last part should add some facts that sustainability is adding values to the 
 ![Screenshot](06-CO2Concentration.png)
 
 ![Screenshot](07-Temperature.png)
+
+
+## 5. Data Resources Links
+
+https://finance.yahoo.com/quote/TSLA/
+https://hypercharts.co/tsla?r=google-ads&gclid=CjwKCAiA1fnxBRBBEiwAVUouUqLgorjQ94R9Z-GXcgYghcUOr2A9VUconfK_Vkq6FyZo76uYsDb2rhoCJdoQAvD_BwE
+https://www.cargurus.com/Cars/price-trends/Tesla-m112
+https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+

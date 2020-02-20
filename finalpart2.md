@@ -36,10 +36,10 @@ The target audience were the people that drives traditional gasoline-powered car
 
 I didn’t introduced the project at first and leave the interviewee to go through all the wireframes by themselves and asked what part is confusing and why. After I explain what I plan to deliver, I started asking below questions.
 
-All the charts are clear enough to understand?
-Is it intuitive and easy to understand?
-What you would like to change if you have the right to make changes?
-Do you think the overall story is worth being told?
+1. All the charts are clear enough to understand?
+2. Is it intuitive and easy to understand?
+3. What you would like to change if you have the right to make changes?
+4. Do you think the overall story is worth being told?
 ### 3.3 Findings & Insights
 
 The description should be concise and key words should be highlighted.

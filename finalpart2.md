@@ -22,7 +22,7 @@ Advocate save our earth by supporting the electric car industry.
 
 Below is the initial sketches & refined sketches
 
-![Screenshot](wireframe.jpg)
+![Screenshot](part2wireframe.jpg)
 
 ## 3.User Research
 

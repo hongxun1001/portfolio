@@ -49,16 +49,16 @@ The last part should add some facts that sustainability is adding values to the 
 
 ## 4. High-fidelity Data Visualizations
 
-![Screenshot](01-Tesla Stock.png)
+![Screenshot](01-TeslaStock.png)
 
-![Screenshot](02-Tesla Vehicles Delivered.png)
+![Screenshot](02-TeslaVehiclesDelivered.png)
 
-![Screenshot](03-Sales Performance of Small & Midsize Luxury Cars.png)
+![Screenshot](03-SalesPerformanceofSmallMidsizeLuxuryCars.png)
 
-![Screenshot](04-Price Trend of Model S & Model X.png)
+![Screenshot](04-PriceTrendofModelSModelX.png)
 
 ![Screenshot](05-Supercharger.png)
 
-![Screenshot](06-CO2 Concentration.png)
+![Screenshot](06-CO2Concentration.png)
 
 ![Screenshot](07-Temperature.png)

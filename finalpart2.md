@@ -9,16 +9,18 @@ At its peak value of $174.7 billion on Tuesday, 4th February, Tesla was the 30th
 
 ## 2.Wireframes and storyboard
 
-Here I outlined how I would tell the story for the final presentation. 
-The big news around Tesla that the stock price surged 36% in two days.
-The stock price trends over last one year.
-Try to figure out the behind drives and reasons.
-Reason1: The sales performance was beyond expectation.
-Reason2: Tesla is leading the market of small&midsize luxury car.
-Reason3: The unit price is constantly dropping.
-Reason4: The number of super charger is increasing steadily.
-Reason5: Tesla is eco-friendly.
-Advocate save our earth by supporting the electric car industry.
+```
+1.Here I outlined how I would tell the story for the final presentation. 
+2.The big news around Tesla that the stock price surged 36% in two days.
+3.The stock price trends over last one year.
+4.Try to figure out the behind drives and reasons.
+5.Reason1: The sales performance was beyond expectation.
+6.Reason2: Tesla is leading the market of small&midsize luxury car.
+7.Reason3: The unit price is constantly dropping.
+8.Reason4: The number of super charger is increasing steadily.
+9.Reason5: Tesla is eco-friendly.
+10.Advocate save our earth by supporting the electric car industry.
+```
 
 Below is the initial sketches & refined sketches
 
@@ -35,11 +37,12 @@ The target audience were the people that drives traditional gasoline-powered car
 ### 3.2 Interview Protocol
 
 I didn’t introduced the project at first and leave the interviewee to go through all the wireframes by themselves and asked what part is confusing and why. After I explain what I plan to deliver, I started asking below questions.
-
+```
 1. All the charts are clear enough to understand?
 2. Is it intuitive and easy to understand?
 3. What you would like to change if you have the right to make changes?
 4. Do you think the overall story is worth being told?
+```
 ### 3.3 Findings & Insights
 
 The description should be concise and key words should be highlighted.
@@ -65,9 +68,10 @@ The last part should add some facts that sustainability is adding values to the 
 
 
 ## 5. Data Resources Links
-
+```
 https://finance.yahoo.com/quote/TSLA/
 https://hypercharts.co/tsla?r=google-ads&gclid=CjwKCAiA1fnxBRBBEiwAVUouUqLgorjQ94R9Z-GXcgYghcUOr2A9VUconfK_Vkq6FyZo76uYsDb2rhoCJdoQAvD_BwE
 https://www.cargurus.com/Cars/price-trends/Tesla-m112
 https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+```
 

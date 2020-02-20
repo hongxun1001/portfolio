@@ -8,7 +8,6 @@ At its peak value of $174.7 billion on Tuesday, 4th February, Tesla was the 30th
 
 
 ## 2.Wireframes and storyboard
-
 ```
 1.Here I outlined how I would tell the story for the final presentation. 
 2.The big news around Tesla that the stock price surged 36% in two days.
@@ -21,7 +20,6 @@ At its peak value of $174.7 billion on Tuesday, 4th February, Tesla was the 30th
 9.Reason5: Tesla is eco-friendly.
 10.Advocate save our earth by supporting the electric car industry.
 ```
-
 Below is the initial sketches & refined sketches
 
 ![Screenshot](part2wireframe.jpg)

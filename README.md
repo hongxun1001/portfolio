@@ -12,6 +12,8 @@ This is my public portfolio for the Telling stories with Data class at CMU!
 
 [Final project (part 3)](/finalpart3.md)
 
+[Final Project (Final Presentation)](https://carnegiemellon.shorthandstories.com/start-leading-sustainable-lifestyle-by-supporting-electric-car-industry/index.html) 
+
 # About Me
 Hello! I'm a student in the Telling Stories with Data course.
 

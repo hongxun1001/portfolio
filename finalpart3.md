@@ -34,13 +34,13 @@ I utilized the data source on Tesla and global warming, and also some news piece
 5. [Global Warming Related](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
 
 
-### 3.2 News Source
+#### 3.2 News Source
 
 1. [Washington Post](https://www.washingtonpost.com/business/2020/02/04/tesla-stock-price-musk/)
 2. [CNBC](https://www.cnbc.com/2020/02/04/tesla-stock-surging-yet-again-tsla-jumps-past-800-in-early-trading.html)
 3. [NY Times](https://www.nytimes.com/2020/02/03/business/tesla-stock.html?searchResultPosition=2)
 
-### 3.3 Image Source
+#### 3.3 Image Source
 
 1. https://www.ucsusa.org/resources/car-emissions-global-warming
 2. https://www.cnbc.com/2020/02/04/tesla-is-becoming-a-one-stock-mania.html

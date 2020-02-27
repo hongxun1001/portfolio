@@ -6,7 +6,7 @@ This is my public portfolio for the Telling stories with Data class at CMU!
 
 [Assignment 3&4](/Assignment3.md)
 
-# Assignments
+# Final Project
 
 [Final project (part 1)](/finalpart1.md)
 

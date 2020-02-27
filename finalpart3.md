@@ -63,7 +63,7 @@ After I finished part 3 and before the final presentation, I collected all the v
 
 ## 6.Final Presentation
 
-[Link to Final Presentation](https://www.nytimes.com/2020/02/03/business/tesla-stock.html?searchResultPosition=2)
+[Link to Final Presentation](https://carnegiemellon.shorthandstories.com/start-leading-sustainable-lifestyle-by-supporting-electric-car-industry/index.html)
 
 
 

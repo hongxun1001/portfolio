@@ -1,6 +1,3 @@
-# portfolio
-This is my public portfolio for the Telling stories with Data class at CMU!
-
 # About Me
 Hello! I'm a student in the Telling Stories with Data course.
 
@@ -16,12 +13,12 @@ I hope to learn how to better express data, and also basic code knowledge relate
 # Portfolio
 Here's where all of my cool data visualizations will go.
 
-# Assignments
+## Assignments
 [Assignment 2](/dataviz2.md)
 
 [Assignment 3&4](/Assignment3.md)
 
-# Final Project
+## Final Project
 [Final project (part 1)](/finalpart1.md)
 
 [Final project (part 2)](/finalpart2.md)
